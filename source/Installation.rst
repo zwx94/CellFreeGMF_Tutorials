@@ -41,3 +41,20 @@ Download the package from Github (https://github.com//zwx94//CellFreeGMF) and in
 .. code-block:: python
 
    import CellFreeGMF
+
+1.3 Github
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you do not have Python3.5 or Python3.6 installed, consider installing Anaconda (see Installing Anaconda). After installing Anaconda, you can create a new environment, for example, CellFreeGMF (you can change to any name you like).
+
+.. code-block:: python
+
+   #create an environment called SpaGCN
+   conda create -n SpaGCN python=3.7.9
+   #activate your environment 
+   conda activate SpaGCN
+   git clone https://github.com/jianhuupenn/SpaGCN
+   cd SpaGCN/SpaGCN_package/
+   python3 setup.py build
+   python3 setup.py install
+   conda deactivate
