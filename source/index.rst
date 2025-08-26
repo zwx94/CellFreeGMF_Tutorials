@@ -6,6 +6,17 @@
 CellfreeGMF - identify cfRNA biomarkers, and trace cell types of origin of their biomarkers
 =========================
 
+.. toctree::
+   :maxdepth: 1
+
+   Installation
+   Diagnosis
+   Deconvolution
+   Cellchat
+
+
+
+
 .. note::
    这是一个note
 
