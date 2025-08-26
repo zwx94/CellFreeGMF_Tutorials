@@ -14,5 +14,15 @@ The use of the mclust algorithm requires the rpy2 package and the mclust package
 
 Installation
 ------------
-Downloading STAGATE_pyG code from https://github.com/QIFEIDKN/STAGATE_pyG
+Downloading CellFreeGMF code from https://github.com//zwx94//CellFreeGMF
 
+
+.. code-block:: python
+
+   cd CellFreeGMF-main
+   python setup.py build
+   python setup.py install
+
+.. code-block:: python
+
+   import CellFreeGMF
