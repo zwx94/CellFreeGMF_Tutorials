@@ -15,20 +15,3 @@ CellfreeGMF - identify cfRNA biomarkers, and trace cell types of origin of their
    Cellchat
 
 
-
-
-.. note::
-   这是一个note
-
-.. warning::
-   这是一个警告
-
-.. code-block:: bash
-
-   $ # 这是一个shell
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
