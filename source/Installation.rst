@@ -16,6 +16,7 @@ Installation
 ------------
 
 1.1 PyPI: Directly install the package from PyPI.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. code-block:: python
 
@@ -27,6 +28,8 @@ Installation
    pip3 install --user CellFreeGMF
 
 1.2 Github
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Download the package from Github (https://github.com//zwx94//CellFreeGMF) and install it locally:
 .. code-block:: python
 
