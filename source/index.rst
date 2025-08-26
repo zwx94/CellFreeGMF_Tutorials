@@ -14,7 +14,7 @@ CellFreeGMF - identify cfRNA biomarkers, and trace cell types of origin of their
    Deconvolution
    Cellchat
 
-.. image:: ../Images/StaGATE_Fig1.png
+.. image:: ../Images/flowchart.png
    :width: 600
 
 Abstract
