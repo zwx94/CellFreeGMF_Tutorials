@@ -1,4 +1,4 @@
-Installation
+Installation for CellFreeGMF package
 ============
 
 
