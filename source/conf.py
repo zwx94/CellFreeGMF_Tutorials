@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CellfreeGMF'
+project = 'CellFreeGMF'
 copyright = '2025, Wenxiang Zhang'
 author = 'Wenxiang Zhang'
 release = 'v1'
