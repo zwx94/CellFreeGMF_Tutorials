@@ -50,7 +50,7 @@ If you do not have Python3.5 or Python3.6 installed, consider installing Anacond
 .. code-block:: python
 
    #create an environment called CellFreeGMF
-   conda create -n CellFreeGMF python=3.7.9
+   conda create -n CellFreeGMF python=3.10
    #activate your environment 
    conda activate CellFreeGMF
    git clone https://github.com//zwx94//CellFreeGMF
