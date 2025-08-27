@@ -10,7 +10,7 @@ Software dependencies
    pytorch
    pyG
    
-The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/for detail.
+The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/ for detail.
 
 Installation
 ------------
