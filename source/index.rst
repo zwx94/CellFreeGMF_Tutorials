@@ -10,7 +10,7 @@ CellFreeGMF - identify cfRNA biomarkers, and trace cell types of origin of their
    :maxdepth: 2
 
    Installation
-   PDAC_Diagnosis
+   PDAC_diagnosis
    Deconvolution
    Cellchat
 
