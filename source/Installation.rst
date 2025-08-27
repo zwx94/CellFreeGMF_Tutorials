@@ -9,6 +9,7 @@ Software dependencies
    scanpy
    pytorch
    pyG
+   rpy2
    
 The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/ for detail.
 
