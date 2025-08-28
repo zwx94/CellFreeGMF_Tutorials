@@ -12,7 +12,8 @@ CellFreeGMF - identify cfRNA biomarkers, and trace cell types of origin of their
    Installation
    PDAC_diagnosis.ipynb
    PDAC_decon.ipynb
-   Cellchat
+   PDAC_CC.ipynb
+   PDAC_SC.ipynb
 
 .. image:: ../Images/flowchart.png
    :width: 600
