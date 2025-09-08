@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CellFreeGMF - diagnosis classification of samples, identify cfRNA biomarkers, and analyze the alterations in their originating cells based on graph matrix factorization
+CellFreeGMF - identify cfRNA biomarkers, and analyze the alterations in their originating cells
 =========================
 
 .. toctree::
