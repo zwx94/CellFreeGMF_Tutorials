@@ -25,4 +25,4 @@ Understanding the cellular origins of cell-free RNA (cfRNA) and their alteration
 
 Citation
 ========
-Wenxiang Zhang, et al. "From Cell-Free Transcriptomes to Single-Cell Landscapes: Biomarker Discovery and Originating Cell Alteration Analysis via Graph Matrix Factorization", Submitted.
+W. Zhang, et al. “ From Cell-Free Transcriptomes to Single-Cell Landscapes: Biomarker Discovery and Originating Cell Alteration Analysis via Graph Matrix Factorization.” Advanced Science 13, no. 29 (2026): e74814.
